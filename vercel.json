@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/massa": {
+      "handler": "index.js",
+      "methods": ["GET"]
+    }
+  }
+}
